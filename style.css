@@ -1,6 +1,6 @@
 .cabecalho{
-    background-color:chartreuse
-    color:chartreuse;
+    background-color:rgb(0, 255, 255)
+    color:aqua
     display:flex; 
     justify-content: space-around;
 }
