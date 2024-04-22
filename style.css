@@ -2,7 +2,7 @@
     background-color: #424242;
     color: white;
     display:flex ;
-    justify-content:space-around;
+    justify-content: space-around;
 }
 
 .cabecalho-imagem{max-width: 20%;
