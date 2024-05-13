@@ -1,13 +1,8 @@
-.cabecalho{
-    background-color:aqua;
-    color:rgb(47, 0, 255);
-    display:flex; 
-    justify-content: space-around;
+header {
+    background-color: blue;
+    color: rgb(236, 4, 4);
 }
 
-.cabecalho-imagem{max-width: 20%;
+.cabecalho-imagem{
+ width: 20%;
 }
-
- .cabecalho-lista-item{
-    display: inline-block;
- }
